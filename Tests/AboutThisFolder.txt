@@ -1,0 +1,10 @@
+From here you can find some development stage or test projects:
+---------------------------------------------------------------
+
+SelfControl = self-contained IOleInPlaceActiveObject in an user control
+
+SelfTimer = self-contained timer class module
+
+UniForm = pre-UniCaption test project that became unrequired when I figured out the easy solution
+
+UniMenu, UniMenu2, UniMenuItem = all kinds of random work for a new UniMenu
